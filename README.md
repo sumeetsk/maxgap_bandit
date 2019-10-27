@@ -1,3 +1,6 @@
+# Maxgap Bandit: Adaptive Algorithms for Approximate Ranking
+This repository contains the code for algorithms and experiments in the NeurIPS 2019 paper - Maxgap Bandit: Adaptive Algorithms for Approximate Ranking. The paper can be found at https://arxiv.org/abs/1906.00547.
+
 To generate plots for stopping times, run the following commands:
 - cd stopping_times
 - python generate_data.py
